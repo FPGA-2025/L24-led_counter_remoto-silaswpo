@@ -1,0 +1,5 @@
+VCD info: dumpfile saida.vcd opened for output.
+ERRO: Teste 1 - leds =   7, esperado = 3
+OK: Teste 2 - leds =   2 após reset, como esperado!
+ERRO: Teste 3 - leds =   2, esperado = 10
+tb.v:61: $finish called at 152000 (1ps)
